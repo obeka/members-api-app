@@ -182,3 +182,5 @@ http://localhost:5000/api/css/style.css: Wed, Jun 3, 2020 12:48 PM
 http://localhost:5000/api/members: Wed, Jun 3, 2020 12:49 PM
 http://localhost:5000/api/members: Wed, Jun 3, 2020 12:49 PM
 http://localhost:5000/api/members: Wed, Jun 3, 2020 12:49 PM
+http://localhost:5000/api/members: Wed, Jun 3, 2020 1:06 PM
+http://localhost:5000/api/css/style.css: Wed, Jun 3, 2020 1:06 PM
